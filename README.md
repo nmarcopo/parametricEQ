@@ -6,5 +6,5 @@ I cannot thank enough my dad, [Vince Marcopoli](http://vince.marcopo.li), for hi
 -Nick
 
 # Documentation
-## TL;DR: Run DSPProject.m
+### TL;DR: Run DSPProject.m, or go to the [releases](https://github.com/nmarcopo/parametricEQ/releases) section to download the binary!
 You can find the instructions for using this project, along with all sorts of information on how signal processing techniques were used, in the `res` folder of the repo. Have fun playing around with it!
